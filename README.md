@@ -71,4 +71,4 @@ sudo -E python3 security_agent.py
 ```
 
 ---
-*Developed for a BSc (Hons) Computer Networks Dissertation by Ovinda Sakun.*
+*Developed for a BSc (Hons) Computer Networks Dissertation*
